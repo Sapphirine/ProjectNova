@@ -1,0 +1,49 @@
+noneNone
+None
+Some of the world s most distinctive buildings would never have been built without the use of computers to test the most fundamental parts of the design.
+The skylines of cities around the world are recognisable because of their modern architecture. Think Sydney and the opera house, London and the Gherkin and Dubai s Burj Khalifa - the tallest building in the world.  
+But some of these might never have been built in their current form - if at all - had it not been for computer-aided design (CAD).  It has fundamentally changed the way buildings are designed and constructed.
+ These aren t just buildings that were improved using digital tools, they would not have been built,  says Tom Maver, research professor at the Mackintosh School of Architecture at the Glasgow School of Art.  It has provided solutions to problems that have faced some of the world s most ambitious buildings. 
+None
+Here are five examples of how CAD solved some of the design problems of some of the world s most distinctive buildings.
+Would it even stay up? That was the first question local officials asked themselves after choosing the design for the Sydney Opera House.  A competition to design the building had been won by Danish architect Jorn Utzon. That was the easy part.
+ The design was flamboyant and looked different to most architecture,  says Yanni Alexander Loukissas, author of Co-Designers: Cultures of Computer Simulation in Architecture.  But there were concerns for the structure, they didn t know if it would even stay up. 
+The project was among the first to be tested by CAD. The British firm of engineer Ove Arup joined the project and, using early computer programs, explored if the design was structurally viable. 
+It was not a quick process. The design and construction of the shell structure took eight years to complete and the development of the special ceramic tiles for the shells took over three years, according to the opera house.
+The result was a building that was taller and narrower than the original plans. It was finally opened by the Queen in 1973, stayed up and is now one of the world s most recognisable buildings. It was listed as a Unesco World Heritage site in 2007. 
+Early projects were difficult until the rise of the desktop computer in the 1980s made CAD the phenomenon it is now, says Adrian Dobson, director of practice at Riba.  It is ubiquitous in the industry. 
+The shape of 30 St Mary Axe earned it a nickname - The Gherkin - and it also solved a problem with wind.
+CAD showed the size of the structure would cause whirls of wind at its base. Computer models were used to design a shape that minimised them. The solution was the distinctive  stretched egg  design with a bulge in the middle. 
+Designers Foster + Partners found the shape responded better to air currents. The outside was also uniformly covered with glass panels to help airflow.
+ Computer models simulated the aerodynamics of the structure,  says Maver, who was a founder member of CAAD Futures, which promotes computer aided architectural design globally.  The Gherkin is a great example of what CAD is capable of. Landmark buildings like it would not be standing in their current form if it weren t for CAD. 
+Lauren Laverne reveals the hidden ways that code runs our lives
+Renovating parts of the first national public museum in the world, opened to the public from 1759, was always going to be a delicate project.
+The chosen design by Foster + Partners proposed turning the museum s inner courtyard into the largest covered public square in Europe. It would be enclosed by a glass and steel roof with the famous Reading Room at its centre.
+ The courtyard at the centre of the British Museum was one of London s long-lost spaces,  say the architects.  Without this space the museum was like a city without a park. 
+But it posed a challenge for designers. The canopy was to be constructed out of 3,312 panes of glass, no two of which were the same. A computer program had to be designed to work out the dimensions and angles of each individual pane.
+The Great Court increased public space in the museum by 40%, allowing visitors to move freely around the main floor for the first time in 150 years, says the museum. 
+ There were initial fears that any design with code would be constrained and homogenised,  says Loukissas, who is also PhD assistant professor of digital media at Georgia Institute of Technology.  But CAD has developed and evolved over the last 50 years and coding is now an expressive tool for architecture. 
+Complicated builds before computers
+Wind is one of the most difficult challenges when a structure measures 2,717ft (828m) and has one of the world s highest swimming pools on the 76th floor.
+Using CAD, more than 40 wind tunnel tests were conducted to examine the effects the wind would have on the tower and its occupants, according to the building s owners. Large structural analysis models and facade pressure tests were also done, as was micro-climate analysis of the effects at terraces and around the tower base. 
+As a result the whole tower was rotated by 120 degrees by engineers to reduce the stress from winds at such a height. 
+ CAD solves problems and can reshape what buildings can be,  says Loukissas.  You could build a structure without CAD but most building, large and small, represent CAD in some way. 
+In major buildings few features are used for their aesthetic value alone. The helical staircase at City Hall in London, home of the Greater London Authority (GLA), is a case in point.
+The stairs ascend the full height of the building and measure 1,640ft  (500m). But as well as the most obvious use, they also solved an acoustic challenge. 
+Sound would bounce around the large hall and something was needed to break it up, says Marianne Freiberger in Perfect buildings: the maths of modern architecture. Sound specialists from SMG and Arup Acoustics tested the stairs and found they trapped sound behind them and echoes were reduced.
+ The first decade was a struggle but the potential of CAD soon became clear,  says Maver.  In the last four decades the transformation in architecture due to CAD has been extraordinary. 
+None
+None
+There are 34 children in the Briggs family - 29 of those have been adopted from all over the world and the family is about to get even bigger. 
+In the last of three pieces on art, writer and philosopher Roger Scruton tries to define the elements which make a great work of art. 
+It s the centrepiece of the traditional festive dinner. So how do people who don t like turkey cope at Christmas?
+In the UK there s a greater chance of snow at Easter than at Christmas.
+Bailiffs in Siberia are seizing pets over tax arrears.
+The BBC is not responsible for the content of external Internet sites
+None
+None
+None
+None
+None
+None
+This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.

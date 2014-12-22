@@ -1,0 +1,47 @@
+doctype html
+html
+    head
+        title= title
+        link(rel='stylesheet', href='/stylesheets/bootstrap.css')    
+        link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+        link(rel='stylesheet', href='/stylesheets/style.css')
+
+    body
+      
+      div.jumbotron
+          h1.red.text-center Project Nova
+          p.big.text-center Welcome to Project Nova, your one source stop for all news!
+
+      each article, i in list
+          if(i==0)
+            div.panel-primary
+              div.panel-heading
+                  h4 #{article.title} 
+              div.panel-body 
+                  h5 #{article.content}
+              
+          if(i==1)
+             h2.font2 Related articles
+             li
+                a.btn-link(href=article.link)=article.title
+          if(i>1)
+            li
+              p 
+              a.btn-link(href=article.link)=article.title
+      div
+        ul.pager
+          if(p>1)
+            li.previous
+              a(type="btn-primary", href="?page=" + (p - 1)) <-- Previous
+          if(p < 200)
+            li.next
+              a(type="btn-primary" , href="?page="+ (p+1)) Next -->
+
+        footer(  style="width: 984px;  border-top: 8px solid #254A73; font-family: Arial, Helvetica, sans-serif;margin-top=10px; margin-bottom=10px")
+
+          p.small(style="margin-top: 10px;") The project has been developed for the 'Big Data Analytics' coursework. Our team comprises of Samad Khan, Mingyun Guan, Yuzhong Ji and Chithra Srinivasan. The two sources used are BBC world and CNN Headlines.
+          div
+            image(src="/images/ak3674.jpg",style="border-radius: 50px; height: 10%; width: 10%; margin: 10px")
+            image(src="/images/mg3419.jpg",style="border-radius: 50px; height: 10%; width: 10%; margin: 10px")
+            image(src="/images/cs3315.jpg",style="border-radius: 50px; height: 50%; width: 10%; margin: 10px")
+            image(src="/images/yj2345.jpg",style="border-radius: 50px; height: 50%; width: 10%; margin: 10px")
